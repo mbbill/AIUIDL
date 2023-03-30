@@ -1,0 +1,1 @@
+So it's time to implement the renderer. Maybe we should somehow let the AI do it too.
