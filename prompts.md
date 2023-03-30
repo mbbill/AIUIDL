@@ -1,0 +1,4 @@
+# Language design
+
+I am in need of a UI description language that can serve as a connection between you, ChatGPT, and my custom renderer. This will enable me to request your assistance in generating a UI from my description and rendering the output with my renderer. Unlike existing UI description languages such as HTML or other frameworks like React or Vue which are designed for human use, this new language should prioritize the following: 1) it should be primarily used by ChatGPT rather than humans to generate output but still allow for human fine-tuning; 2) it must be concise due to limitations on context size; and 3) it needs to handle complex UI scenarios such as nested elements, multiple layout methods, animations etc. As no such language currently exists, creativity is required. Can you assist in designing this language?
+
